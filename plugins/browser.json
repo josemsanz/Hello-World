@@ -10,9 +10,6 @@
         "cordova-plugin-battery-status": {
             "PACKAGE_NAME": "com.redshiftingideas.helloworld"
         },
-        "cordova-plugin-camera": {
-            "PACKAGE_NAME": "com.redshiftingideas.helloworld"
-        },
         "cordova-plugin-media-capture": {
             "PACKAGE_NAME": "com.redshiftingideas.helloworld"
         },
@@ -62,6 +59,9 @@
             "PACKAGE_NAME": "com.redshiftingideas.helloworld"
         },
         "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.redshiftingideas.helloworld"
+        },
+        "cordova-plugin-camera": {
             "PACKAGE_NAME": "com.redshiftingideas.helloworld"
         }
     },
